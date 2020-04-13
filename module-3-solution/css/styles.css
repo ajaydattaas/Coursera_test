@@ -108,6 +108,8 @@ section {
   border: 0;
   background-color: #FC5F06;
   color: #FFFFFF;
+  text-align:center;	
+	
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
